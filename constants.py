@@ -6,6 +6,8 @@ PKG_ROOT = Path(__file__).resolve().parent
 ASSETS_DIR = PKG_ROOT / "assets"
 
 APP_TITLE = "CHEDRO XII - ZKTeco Biometric Live Capture"
+
+# !! remove zk_bio if development mode
 LOGO_PATH = resource_path("zk_bio/assets/ched.png")
 LOGO_ZKTECO_PATH = resource_path("zk_bio/assets/zkt.png")
 
