@@ -1,0 +1,5 @@
+.guide
+/__pycache__
+/core/__pycache__
+/ui/__pycache__
+/workers/__pycache__
